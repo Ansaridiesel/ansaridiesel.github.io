@@ -1,0 +1,58 @@
+<!DOCTYPE html><html lang="hi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ansari Diesel Garage</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; background: #f4f4f4; }
+    header { background: #111; color: #fff; padding: 20px; text-align: center; }
+    header img { max-height: 80px; }
+    nav { background: #333; color: #fff; padding: 10px; text-align: center; }
+    nav a { color: #fff; margin: 0 15px; text-decoration: none; }
+    section { padding: 20px; }
+    .services, .contact { background: #fff; margin: 20px auto; padding: 20px; border-radius: 10px; max-width: 800px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+    h2 { color: #222; }
+    ul { line-height: 1.8; }
+    footer { background: #111; color: #fff; text-align: center; padding: 10px; }
+    .whatsapp-btn {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      background-color: #25D366;
+      color: white;
+      padding: 10px 20px;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 18px;
+      box-shadow: 0 4px 6px rgba(0,0,0,0.2);
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="your-logo-path-here.png" alt="Ansari Diesel Garage Logo">
+    <h1>Ansari Diesel Garage</h1>
+    <p>नागर उंटारी, गढ़वा, झारखंड | संपर्क करें: 7990772285</p>
+  </header>  <nav>
+    <a href="#services">सेवाएं</a>
+    <a href="#contact">संपर्क करें</a>
+  </nav>  <section class="services" id="services">
+    <h2>हमारी सेवाएं</h2>
+    <ul>
+      <li>डीज़ल इंजन रिपेयरिंग</li>
+      <li>पेट्रोल इंजन रिपेयरिंग</li>
+      <li>ECM रिपेयरिंग</li>
+      <li>BCM रिपेयरिंग</li>
+      <li>कार स्कैनिंग</li>
+    </ul>
+  </section>  <section class="contact" id="contact">
+    <h2>संपर्क करें</h2>
+    <p><strong>पता:</strong> नगर उंटारी, गढ़वा, झारखंड</p>
+    <p><strong>मोबाइल / WhatsApp:</strong> <a href="tel:7990772285">7990772285</a></p>
+  </section><a class="whatsapp-btn" href="https://wa.me/917990772285" target="_blank">📱 WhatsApp करें</a>
+
+  <footer>
+    <p>&copy; 2025 Ansari Diesel Garage. सभी अधिकार सुरक्षित।</p>
+  </footer>
+</body>
+</html>
